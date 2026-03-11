@@ -1,0 +1,6 @@
+display_name: Test-Driven Development Workflow
+description: Use this skill to enforce test-driven development with comprehensive tests (unit, integration, and E2E) achieving 80%+ coverage.
+brand_color: "#f72585"
+default_prompt: |
+  Use the TDD workflow: write user journeys, generate tests, run them (they should fail), implement code, run tests again, refactor, and verify coverage.
+allow_implicit_invocation: true
